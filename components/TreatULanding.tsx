@@ -261,7 +261,7 @@ const TreatULanding = () => {
             <div className="order-1 md:order-2">
               <h3 className="text-3xl font-bold mb-6">Curated Venues, Not Random Meetups</h3>
               <p className="text-gray-400 mb-6 leading-relaxed">
-                We partner with the best spots in your city. When you match, you both pick from a selection of great cafes, bars, or activities. No awkward "where should we meet?" No sketchy locations. Just quality venues where you&apos;ll actually enjoy your time.
+                We partner with the best spots in your city. When you match, you both pick from a selection of great cafes, bars, or activities. No awkward &ldquo;where should we meet?&rdquo; No sketchy locations. Just quality venues where you&apos;ll actually enjoy your time.
               </p>
               <div className="space-y-4">
                 <div className="flex items-center gap-3">
